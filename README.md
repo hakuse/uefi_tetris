@@ -12,6 +12,7 @@ UEFIの勉強としてTetrisを作ってみました。ちなみにSDKは使っ�
 - http://yuma.ohgami.jp/UEFI-Bare-Metal-Programming-2/02_simple_text_input_ex.html
 - https://shina-ecc.hatenadiary.org/entry/20140819/1408434995
 - https://wiki.osdev.org/UEFI_App_Bare_Bones#Creating_and_running_the_CD_image
+- https://edk2-docs.gitbook.io/edk-ii-uefi-driver-writer-s-guide/3_foundation/35_guids
 
 ## 開発環境
 WSL2 Ubuntu 20.04.5 LTS
